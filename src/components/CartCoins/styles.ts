@@ -38,6 +38,7 @@ export const StyledCartItems = styled.div<CartCoinsActive>`
 
     p, h3 {
         color: black;
+        text-align: center;
     }
 
     div {
